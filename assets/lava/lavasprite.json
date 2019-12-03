@@ -1,0 +1,120 @@
+{
+	"textures": [
+		{
+			"image": "lavasprite.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1287,
+				"h": 102
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lava1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 320,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 320,
+						"h": 100
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 320,
+						"h": 100
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.71
+					}
+				},
+				{
+					"filename": "lava2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 320,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 320,
+						"h": 100
+					},
+					"frame": {
+						"x": 323,
+						"y": 1,
+						"w": 320,
+						"h": 100
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "lava3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 320,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 320,
+						"h": 100
+					},
+					"frame": {
+						"x": 645,
+						"y": 1,
+						"w": 320,
+						"h": 100
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "lava4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 319,
+						"h": 100
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 319,
+						"h": 100
+					},
+					"frame": {
+						"x": 967,
+						"y": 1,
+						"w": 319,
+						"h": 100
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7b80c026289091ae85c8a403bb837a46:ed143445083b7c0ad61ca691e0fa7548:1630e14155bb660828fdf1143ce2675a$"
+	}
+}
